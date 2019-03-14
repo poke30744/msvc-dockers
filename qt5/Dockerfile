@@ -1,6 +1,6 @@
 # escape=`
 
-FROM buildtools2017:latest
+FROM poke30744/buildtools2017:latest
 LABEL Description="Windows development environment with VC 2017 & Qt 5.12.1"
 
 # Disable crash dialog for release-mode runtimes
